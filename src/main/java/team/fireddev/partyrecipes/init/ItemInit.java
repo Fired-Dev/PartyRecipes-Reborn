@@ -12,5 +12,6 @@ public class ItemInit {
 
 
     public static final RegistryObject<Item> JAR = ItemRegister.register("jar", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> CUP = ItemRegister.register("cup", () -> new Item(BaseProperties));
 
 }
