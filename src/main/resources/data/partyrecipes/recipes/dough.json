@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "partyrecipes:flour"
+    },
+    {
+      "item": "partyrecipes:flour"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "partyrecipes:dough"
+  }
+}

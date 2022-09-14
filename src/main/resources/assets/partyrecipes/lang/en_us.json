@@ -2,5 +2,9 @@
   "itemGroup.partyrecipes": "Party Recipes: Reborn",
 
   "item.partyrecipes.jar": "Jar",
-  "item.partyrecipes.cup": "Cup"
+  "item.partyrecipes.cup": "Cup",
+  "item.partyrecipes.reedjuice": "Reed Juice",
+  "item.partyrecipes.concentratedsyrup": "Concentrated Syrup",
+  "item.partyrecipes.dough": "Dough",
+  "item.partyrecipes.flour": "Flour"
 }

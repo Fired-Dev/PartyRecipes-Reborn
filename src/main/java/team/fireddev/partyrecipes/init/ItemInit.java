@@ -13,5 +13,8 @@ public class ItemInit {
 
     public static final RegistryObject<Item> JAR = ItemRegister.register("jar", () -> new Item(BaseProperties));
     public static final RegistryObject<Item> CUP = ItemRegister.register("cup", () -> new Item(BaseProperties));
-
+    public static final RegistryObject<Item> REEDJUICE = ItemRegister.register("reedjuice", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> CONCENTRATEDSYRUP = ItemRegister.register("concentratedsyrup", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> DOUGH = ItemRegister.register("dough", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> FLOUR = ItemRegister.register("flour", () -> new Item(BaseProperties));
 }

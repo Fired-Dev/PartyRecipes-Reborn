@@ -2,5 +2,9 @@
   "itemGroup.partyrecipes": "派对食谱：重生",
 
   "item.partyrecipes.jar": "罐子",
-  "item.partyrecipes.cup": "杯子"
+  "item.partyrecipes.cup": "杯子",
+  "item.partyrecipes.reedjuice": "甘蔗汁",
+  "item.partyrecipes.concentratedsyrup": "浓糖浆",
+  "item.partyrecipes.dough": "面团",
+  "item.partyrecipes.flour": "面粉"
 }
