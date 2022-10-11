@@ -21,4 +21,6 @@ public class ItemInit {
     public static final RegistryObject<Item> THINSTICK = ItemRegister.register("thinstick", () -> new Item(BaseProperties));
     public static final RegistryObject<Item> GRASSASH = ItemRegister.register("grassash", () -> new Item(BaseProperties));
     public static final RegistryObject<Item> SODA = ItemRegister.register("soda", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> SALT = ItemRegister.register("salt", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> PAPERFILTER = ItemRegister.register("paper_filter", () -> new Item(BaseProperties));
 }

@@ -2,22 +2,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#@#",
-    "#-#"
+    " U ",
+    " # ",
+    " _ "
   ],
   "key": {
     "#": {
-      "item": "partyrecipes:grassash"
+      "item": "partyrecipes:paper_filter"
     },
-    "@": {
+    "U": {
       "item": "minecraft:water_bucket"
     },
-    "-": {
+    "_": {
       "item": "minecraft:bowl"
     }
   },
   "result": {
-    "item": "partyrecipes:soda",
-    "count": 2
+    "item": "partyrecipes:salt"
   }
 }
