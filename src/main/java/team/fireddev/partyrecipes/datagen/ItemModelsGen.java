@@ -15,7 +15,8 @@ public class ItemModelsGen extends ItemModelProvider {
             "flour",
             "icecube",
             "thinstick",
-            "grassash"
+            "grassash",
+            "soda"
     };
     public ItemModelsGen(DataGenerator generator, ExistingFileHelper existingFileHelper) {
         super(generator, PartyRecipes.MODID, existingFileHelper);
