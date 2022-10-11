@@ -19,4 +19,5 @@ public class ItemInit {
     public static final RegistryObject<Item> FLOUR = ItemRegister.register("flour", () -> new Item(BaseProperties));
     public static final RegistryObject<Item> ICECUBE = ItemRegister.register("icecube", () -> new Item(BaseProperties));
     public static final RegistryObject<Item> THINSTICK = ItemRegister.register("thinstick", () -> new Item(BaseProperties));
+    public static final RegistryObject<Item> GRASSASH = ItemRegister.register("grassash", () -> new Item(BaseProperties));
 }

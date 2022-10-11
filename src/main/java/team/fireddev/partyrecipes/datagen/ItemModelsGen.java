@@ -6,7 +6,17 @@ import net.minecraftforge.common.data.ExistingFileHelper;
 import team.fireddev.partyrecipes.PartyRecipes;
 
 public class ItemModelsGen extends ItemModelProvider {
-    private static final String[] listAllItem={"jar","cup","reedjuice","concentratedsyrup","dough","flour","icecube","thinstick"};
+    private static final String[] listAllItem={
+            "jar",
+            "cup",
+            "reedjuice",
+            "concentratedsyrup",
+            "dough",
+            "flour",
+            "icecube",
+            "thinstick",
+            "grassash"
+    };
     public ItemModelsGen(DataGenerator generator, ExistingFileHelper existingFileHelper) {
         super(generator, PartyRecipes.MODID, existingFileHelper);
     }
